@@ -1,2 +1,2 @@
-<h1>GDG On Campus Zagazig:Data Science</h1>
-<p>Machine Learning</p>
+<h1>GDG On Campus Zagazig</h1>
+<p>Basic-Ai</p>
